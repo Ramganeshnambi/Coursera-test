@@ -1,0 +1,23 @@
+•	Confluence (similar to MSS card)
+•	Symphony (similar to MSS card)
+•	Hamilton - Quotes and historical facts from and about one of the founders. (maybe a similar Mellon card?)
+•	FinTech Fridays - See the latest stories aggregated from the Fintech Friday flipboard magazine, plus see upcoming and previous episodes
+•	FinTech Initiative - See and learn about  the startups that the Finance team are excited about 
+•	Free Lunch - A quick way to announce (and maybe geographically subscribe) to leftover catering being shared. (probably built using an MSS group) 
+•	Car Pooling – Availability and Route with location details and booking etc
+•	Weather forecast  Card for our office location across geography using weather service api.
+•	Get a room! - A card for Reserve Space
+•	Cafeteria Menu  -- A Card suitable can be used at Pershing Plaza..Can be used for Pune 
+•	What's Trending  - the current MSS card is about your connections. A card just displaying the "Trending and Popular" page: https://mysourcesocial.bnymellon.net/content?filterID=recommended
+•	Upcoming events 
+•	Fire Drill Announcement
+•	Mysource Stack Top 5 topics . Card can be developed.
+•	Learning Dept activities – Batch details with profiles.
+•	Virtual Tour of locatons floor wise across geography
+•	Two wheeher/ Car Parking Slots availability and holdings
+•	CSR Card for CSR Events..
+•	Corporate Service Feedback Card
+•	Seat Locator Card
+•	Stationary booking Card—to be supplied at Desk.
+•	CAB Booking Card
+
