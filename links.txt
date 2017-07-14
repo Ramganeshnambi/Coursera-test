@@ -1,0 +1,11 @@
+https://github.com/mattlewis92/angular-bootstrap-calendar
+
+http://angular-ui.github.io/ui-calendar/
+
+https://mattlewis92.github.io/angular-bootstrap-calendar/#!?example=kitchen-sink
+
+https://javascript.daypilot.org/demo/scheduler/index.html
+
+https://github.com/B-3PO/angular-material-event-calendar
+
+https://material.angularjs.org/latest/demo/datepicker
